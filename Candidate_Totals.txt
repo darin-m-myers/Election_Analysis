@@ -1,5 +1,0 @@
-Candidate			% of Vote
-Charles Casper Stockham		11.03%
-Diana DeGette			86.91%
-Raymon Anthony Doane		2.06%
-Grand Total			100.00%
