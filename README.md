@@ -7,7 +7,7 @@ The Colorado Board of Elections has requested the following detail to complete t
 2. The complete list of candidates who recieved votes
 3. The total number of votes each candidate won
 4. The percentage of votes each candidate won
-5. Determine the winner of the election based on popular vote.
+5. The winner of the election based on popular vote
 
 ## Resources
 - Data Source: election_results.csv
@@ -36,6 +36,9 @@ The Colorado Board of Elections has requested additional detail:
 
 ## Challenege Summary
 The analysis of the election show that:
+- The counties were:
+    - County 1
+    - County 2
 - The voter turnout for each county was:
     - County 1 had "x%" of the total count and "y" number of voters.
     - County 2 had "x%" of the total count and "y" number of voters.
