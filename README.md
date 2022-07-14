@@ -18,23 +18,24 @@ The Colorado Board of Elections has requested the following detail to complete t
 
 ## Election - Audit Results
 The analysis of the election show that:
-- There were "369,711" votes cast in the election
+- There were __369,711__ votes cast in the election
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
 - The candidate results were:
-    - Charles Casper Stockham recieved "23.0%" of the vote and "85,213" number of votes.
-    - Diana DeGette recieved "73.8%" of the vote and "272,892" number of votes.
-    - Raymon Anthony Doane recieved "3.1%" of the vote and "11,606" number of votes.
+    - Charles Casper Stockham recieved __23.0%__ of the vote with __85,213__ votes.
+    - Diana DeGette recieved __73.8%__ of the vote with __272,892__ votes.
+    - Raymon Anthony Doane recieved __3.1%__ of the vote with __11,606__ votes.
 - The winner of the election was:
-    - Diana DeGette, who recvieved "73.8%" of the vote and "272,892" number of votes.
+    - __Diana DeGette__, who recvieved __73.8%__ of the vote with __272,892__ votes.
     
 - The voter turnout for each county was:
-    - Jefferson had "10.5%" of the total count and "38,855" number of voters.
-    - Denver had "82.8%" of the total count and "306,055" number of voters.
-    - Arapahoe had "6.7%" of the total count and "24,801" number of voters.
-- Denver had the highest turnout with "82.8%" of the total count and "306,055" number of voters.
+    - Jefferson had __10.5%__ of the total with __38,855__ voters.
+    - Denver had __82.8%__ of the total with __306,055__ voters.
+    - Arapahoe had __6.7%__ of the total with __24,801__ voters.
+
+- __Denver__ had the highest turnout with __82.8%__ of the total with __306,055__ voters.
 
 ## Election - Audit Summary
 The script was created to analyze the election results and is fairly robust. If the raw data is in a similar setup it could be applied to any election made up of counties. There are two additonal opportunities that I see for using this script in other types of elections:
