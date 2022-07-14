@@ -34,7 +34,7 @@ The analysis of the election show that:
     - Jefferson had "10.5%" of the total count and "38,855" number of voters.
     - Denver had "82.8%" of the total count and "306,055" number of voters.
     - Arapahoe had "6.7%" of the total count and "24,801" number of voters.
-- Denver had the highest turnout with "x%" of the total count and "y" number of voters.
+- Denver had the highest turnout with "82.8%" of the total count and "306,055" number of voters.
 
 ## Election - Audit Summary
 The script was created to analyze the election results and is fairly robust. If the raw data is in a similar setup it could be applied to any election made up of counties. There are two additonal opportunities that I see for using this script in other types of elections:
